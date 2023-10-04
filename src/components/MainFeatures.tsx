@@ -4,9 +4,9 @@ const MainFeatures = () => {
  return (
  <section className="text-gray-600 body-font">
   
-<div className="flex items-center justify-center">
-<img className="object-cover rounded-full w-80 h-8000 inline-flex items-center justify-center flex-shrink-8 " alt="hero" src="./nature_5.jpeg"/>
-</div>
+  <div className="rounded-lg h-64 overflow-hidden">
+  <img alt="feature" className="m-auto object-fit object-center h-full w-1/2" src="./nature_0.jpeg" />
+  </div>
 
  <div className="container px-5 py-24 mx-auto flex flex-col">
  <div className="lg:w-4/6 mx-auto">

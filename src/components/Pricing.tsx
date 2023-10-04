@@ -8,7 +8,7 @@ const Pricing = () => {
   <div className="flex flex-col text-center w-full mb+1">
     <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"> Productos </h1>
     </div>
-    <div className="flex items-center justify-center space-x-4 px-5 py-10 mx-auto">
+<div className="flex flex-wrap justify-center p-5 mx-auto">
         <img
         style={{ width: '150px', height: '150px' }}
         className="object-cover"

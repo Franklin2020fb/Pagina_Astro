@@ -16,10 +16,10 @@ const Footer = () => {
  </a>
  
  <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
- <a href="#hero"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Hero</a>
- <a href="#features"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Features</a>
- <a href="#pricing"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Pricing</a>
- <a href="#contact"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Contact</a>
+ <a href="#hero"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Inicio</a>
+ <a href="#features"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Mirador</a>
+ <a href="#pricing"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Productos</a>
+ <a href="#contact"   className="text-gray-500 hover:text-gray-900 mx-3 cursor-pointer">Contactar</a>
  </span>
  </div>
  </footer>
